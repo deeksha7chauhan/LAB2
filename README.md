@@ -1,4 +1,4 @@
-# *Data Engineering Project: ETL/ELT Pipeline with Airflow and DBT*
+# *Data Warehouse Lab 2: ETL/ELT Pipeline with Airflow and DBT*
 
 This repository contains two Apache Airflow DAGs and a dbt project for implementing an ETL/ELT pipeline targeting stock data. The Airflow DAGs handle orchestration of data pipelines, while dbt is used for modular SQL transformations. Below is an overview of the flow for each DAG and the dbt project structure.
 
