@@ -3,7 +3,7 @@ dwlab2:
     dev:
       account: DXVFTZY-CDB70790
       database: dev
-      password: DeekshaChauhan
+      password: ***********
       role: ACCOUNTADMIN
       schema: analytics
       threads: 1
