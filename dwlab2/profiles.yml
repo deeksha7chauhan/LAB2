@@ -1,0 +1,13 @@
+dwlab2:
+  outputs:
+    dev:
+      account: DXVFTZY-CDB70790
+      database: dev
+      password: DeekshaChauhan
+      role: ACCOUNTADMIN
+      schema: analytics
+      threads: 1
+      type: snowflake
+      user: deekshachauhan7
+      warehouse: COMPUTE_WH
+  target: dev
